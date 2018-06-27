@@ -14,3 +14,57 @@ p {
 }
 
 /* PLACE YOUR CUSTOM CODE HERE */
+.navbar {
+  margin: 0;
+}
+
+.brand p {
+  font-family: 'Satisfy', cursive;
+}
+
+.jumbotron {
+  background-size: cover;
+  background-image: url("../img/hero2.PNG");
+  height: 400px;
+  width: 100%;
+
+}
+
+.banner {
+  padding-top: 100px;
+  color: #fff;
+}
+
+.container {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.img-resize {
+  width: 100%;
+}
+
+.product {
+  padding-top: 20px;
+}
+
+.sidebar {
+  padding-bottom: 80px;
+}
+
+#bottom {
+  margin-top: 100px;
+  padding: 100px 0;
+  background-color: #f4f4f4;
+}
+
+.footer {
+  background-color: #000;
+  padding: 100px 0;
+
+}
+
+.icon {
+  color: #fff;
+  margin-left: 25px;
+}
